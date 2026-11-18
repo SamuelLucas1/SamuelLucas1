@@ -1,5 +1,6 @@
 # Olá! Eu sou Samuel Lucas 👋
 
+🎓 Formado em Técnico em Informática 
 🎓 Estudante de Jogos Digitais na Melies  
 💻 Desenvolvedor Backend em formação  
 🚀 Focado em C#, .NET e desenvolvimento de software
